@@ -46,11 +46,11 @@ To begin using SafeHer, follow these steps:
 ## Security
 SafeHer leverages **Firebase** for secure data management and **Twilio** for reliable communication, ensuring swift and efficient responses during distress situations.
 
-<img src="https://github.com/user-attachments/assets/b77038ad-7a27-4973-a62a-dd2c0dbce1a0" alt="Description" width="500">
 <img src="https://github.com/user-attachments/assets/d1876520-31c2-4050-baac-de2e51ff64e1" alt="Description" width="500">
 <img src="https://github.com/user-attachments/assets/a9b87790-bcc7-4313-b1df-d9b8313d2b77" alt="Description" width="500">
 <img src="https://github.com/user-attachments/assets/32f2e723-5abc-4578-98eb-0e53fcd76d42" alt="Description" width="500">
 <img src="https://github.com/user-attachments/assets/0455ab34-5b4d-4421-9357-8acf88e1217a" alt="Description" width="500">
+<img src="https://github.com/user-attachments/assets/b77038ad-7a27-4973-a62a-dd2c0dbce1a0" alt="Description" width="500">
 
 
 ## Acknowledgments
