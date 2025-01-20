@@ -135,10 +135,10 @@ const VoiceRecognitionScreen = ({ navigation }) => {
 
       const emergencyMessage = `EMERGENCY ALERT: ${username} is in danger. Location: https://www.google.com/maps?q=${currentLocation.latitude},${currentLocation.longitude}`;
 
-      const TWILIO_ACCOUNT_SID = 'ACd9a525e3d46a318e20264df2fc9d7291';
-      const TWILIO_AUTH_TOKEN = '93375d0df340a400bfb4edd9369d6ec8';
-      const TWILIO_PHONE_NUMBER = '+16203191461';
-      const RECEIVER_PHONE_NUMBER = '+918009960450';
+      const TWILIO_ACCOUNT_SID = 'account sid';
+      const TWILIO_AUTH_TOKEN = 'auth token';
+      const TWILIO_PHONE_NUMBER = '+1twilio number us';
+      const RECEIVER_PHONE_NUMBER = '+91 your number india';
 
       const messageUrl = `https://api.twilio.com/2010-04-01/Accounts/${TWILIO_ACCOUNT_SID}/Messages.json`;
 
