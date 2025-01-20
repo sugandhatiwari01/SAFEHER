@@ -1,50 +1,73 @@
-# Welcome to your Expo app 👋
+![IMG-20250120-WA0017 1](https://github.com/user-attachments/assets/b77038ad-7a27-4973-a62a-dd2c0dbce1a0)# SafeHer: Women Safety Application
 
-This is an [Expo](https://expo.dev) project created with [`create-expo-app`](https://www.npmjs.com/package/create-expo-app).
+## Overview
+SafeHer is a comprehensive real-time safety application meticulously designed to prioritize and enhance women's security. Built using **Expo** and **React Native**, this app is compatible with **iOS**, **Android**, and **web browsers**.
 
-## Get started
+## Key Features
+- **Voice-Triggered Alerts**: Activate emergency protocols hands-free by speaking a personalized codeword.
+- **Live Location Sharing**: Share your real-time location with trusted contacts during emergencies.
+- **Automated Notifications**: Instantly alert predefined emergency contacts and authorities.
+- **Panic Button**: Manually trigger an emergency alert to send SMS and place a call, sharing distress messages and live location.
 
-1. Install dependencies
+## Technologies Used
+- **Firebase API**: Provides secure user authentication and scalable cloud storage for user profiles.
+- **Twilio API**: Enables seamless communication by sending SMS and initiating emergency calls to emergency contacts.
+- **Google Maps API**: Facilitates accurate live location sharing during critical situations.
 
+## Installation
+To begin using SafeHer, follow these steps:
+
+1. Clone the repository:
+   ```bash
+   git clone <repository-url>
+   ```
+2. Navigate to the project directory:
+   ```bash
+   cd SafeHer
+   ```
+3. Install dependencies:
    ```bash
    npm install
    ```
-
-2. Start the app
-
+4. Start the application:
    ```bash
-    npx expo start
+   npx expo start
    ```
 
-In the output, you'll find options to open the app in a
+## Usage
+1. **Register an Account**: Sign up or log in using your credentials.
+2. **Set Up Emergency Contacts**: Add trusted contacts to notify during emergencies.
+3. **Personalize Codeword**: Configure a unique voice-triggered codeword for hands-free emergency activation.
+4. **Activate Safety Features**:
+   - Use the panic button to manually send alerts.
+   - Trigger alerts using the voice recognition feature.
+5. **Live Tracking**: Allow contacts to track your real-time location in emergencies.
 
-- [development build](https://docs.expo.dev/develop/development-builds/introduction/)
-- [Android emulator](https://docs.expo.dev/workflow/android-studio-emulator/)
-- [iOS simulator](https://docs.expo.dev/workflow/ios-simulator/)
-- [Expo Go](https://expo.dev/go), a limited sandbox for trying out app development with Expo
+## Security
+SafeHer leverages **Firebase** for secure data management and **Twilio** for reliable communication, ensuring swift and efficient responses during distress situations.
 
-You can start developing by editing the files inside the **app** directory. This project uses [file-based routing](https://docs.expo.dev/router/introduction).
+![Uploading IMG-20250120-WA0017[1].jpg…]()
 
-## Get a fresh project
 
-When you're ready, run:
 
-```bash
-npm run reset-project
-```
+s![IMG-20250120-WA0014 1](https://github.com/user-attachments/assets/d1876520-31c2-4050-baac-de2e51ff64e1)
 
-This command will move the starter code to the **app-example** directory and create a blank **app** directory where you can start developing.
 
-## Learn more
+![IMG-20250120-WA0015 1](https://github.com/user-attachments/assets/a9b87790-bcc7-4313-b1df-d9b8313d2b77)
 
-To learn more about developing your project with Expo, look at the following resources:
+![IMG-20250120-WA0016 1](https://github.com/user-attachments/assets/32f2e723-5abc-4578-98eb-0e53fcd76d42)
 
-- [Expo documentation](https://docs.expo.dev/): Learn fundamentals, or go into advanced topics with our [guides](https://docs.expo.dev/guides).
-- [Learn Expo tutorial](https://docs.expo.dev/tutorial/introduction/): Follow a step-by-step tutorial where you'll create a project that runs on Android, iOS, and the web.
 
-## Join the community
+![IMG-20250120-WA0130 1](https://github.com/user-attachments/assets/0455ab34-5b4d-4421-9357-8acf88e1217a)
 
-Join our community of developers creating universal apps.
+## Acknowledgments
+Special thanks to:
+- The **Firebase** team for secure and scalable backend solutions.
+- **Twilio** for providing reliable communication APIs.
+- **Google Maps** for precise live location tracking.
 
-- [Expo on GitHub](https://github.com/expo/expo): View our open source platform and contribute.
-- [Discord community](https://chat.expo.dev): Chat with Expo users and ask questions.
+
+---
+
+Empower your safety with **SafeHer** — your trusted companion for real-time security.
+
