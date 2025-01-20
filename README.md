@@ -1,4 +1,4 @@
-![IMG-20250120-WA0017 1](https://github.com/user-attachments/assets/b77038ad-7a27-4973-a62a-dd2c0dbce1a0)# SafeHer: Women Safety Application
+# SafeHer: Women Safety Application
 
 ## Overview
 SafeHer is a comprehensive real-time safety application meticulously designed to prioritize and enhance women's security. Built using **Expo** and **React Native**, this app is compatible with **iOS**, **Android**, and **web browsers**.
@@ -46,7 +46,7 @@ To begin using SafeHer, follow these steps:
 ## Security
 SafeHer leverages **Firebase** for secure data management and **Twilio** for reliable communication, ensuring swift and efficient responses during distress situations.
 
-![Uploading IMG-20250120-WA0017[1].jpg…]()
+![IMG-20250120-WA0017 1](https://github.com/user-attachments/assets/b77038ad-7a27-4973-a62a-dd2c0dbce1a0)
 
 
 
